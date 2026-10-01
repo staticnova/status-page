@@ -7,7 +7,7 @@ sites:
     url: https://debweb.marten-grue.ts.net
 
 status-website:
-  name: System Status
+  name: Project Upptime Status
   introTitle: "Live Service Monitoring"
   baseUrl: /status-page     # Omit if using a custom CNAME domain below
   # cname: status.yourdomain.com # Optional custom domain setup
